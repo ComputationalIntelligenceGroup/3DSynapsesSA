@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="green-circle.svg"
+   inkscape:export-filename="/home/luis/bitbucket/synapsesSA_gui/inst/dashboard_UI/statics/icons/green-circle-check.png"
+   inkscape:export-xdpi="290.43298"
+   inkscape:export-ydpi="290.43298">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.836083"
+     inkscape:cx="18.299122"
+     inkscape:cy="20.986531"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1861"
+     inkscape:window-height="1056"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#37700b;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2995"
+       sodipodi:cx="18.849358"
+       sodipodi:cy="18.265543"
+       sodipodi:rx="15.060542"
+       sodipodi:ry="15.060542"
+       d="m 33.9099,18.265543 a 15.060542,15.060542 0 1 1 -30.1210845,0 15.060542,15.060542 0 1 1 30.1210845,0 z"
+       transform="matrix(0.96461375,0,0,0.96461375,-2.1823495,-1.6191939)"
+       inkscape:export-filename="/home/luis/bitbucket/synapsesSA_gui/inst/dashboard_UI/statics/icons/green-circle-check.png"
+       inkscape:export-xdpi="757"
+       inkscape:export-ydpi="757" />
+    <path
+       style="fill:none;stroke:#37700b;stroke-width:1.72205114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 7.5452906,16.570896 11.786238,22.986688 24.454709,9.0133121"
+       id="path3874"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>

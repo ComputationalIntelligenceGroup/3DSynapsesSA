@@ -1,0 +1,77 @@
+.big-icon{
+  font-size: 30pt;
+}
+
+.hr-greencolor{
+  color: #00a65a;
+    background-color: #00a65a;
+    height: 1px;
+}
+
+.hr-bluecolor{
+    color: #3c8dbc;
+    background-color: #3c8dbc;
+    height: 1px;
+}
+
+.subscript-header{
+  font-size: 7pt;
+}
+/*
+  .shiny-progress .progress{
+    height: 10px !important;
+  }
+*/
+
+/* Override default progress text box size */  
+.progress-text {
+  width:400px !important;
+}
+
+.big-green-check{
+  font-size: 20pt;
+  color: #007f00;
+}
+
+.big-red-close{
+  font-size: 20pt;
+  color: #cc0000;
+}
+
+.big-orange-warn{
+  font-size: 20pt;
+  color: #FF9900;
+}
+.somams-from-icon{
+  font-size: 20pt;
+}
+
+.info-screenshot{
+  width:400px; 
+  margin-right:40px; 
+  margin-left:40px; 
+  float:left
+}
+
+/* For innerborder tables */
+
+.innerborder tbody td, .innerborder tbody th {
+  border: 1px solid black;
+}
+.innerborder tbody tr:first-child th {
+  border-top: 0;
+}
+.innerborder tbody tr:last-child td {
+  border-bottom: 0;
+  border-right: 0;
+}
+
+.innerborder tbody tr td:first-child,
+.innerborder tbody tr th:first-child {
+  border-left: 0;
+}
+
+.innerborder tbody tr td:last-child,
+.innerborder tbody tr th:last-child {
+  border-right: 0;
+}
